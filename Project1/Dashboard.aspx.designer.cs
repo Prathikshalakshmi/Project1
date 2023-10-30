@@ -6,14 +6,10 @@
 //     the code is regenerated. 
 // </auto-generated>
 //------------------------------------------------------------------------------
-
 namespace Project1
 {
-
-
     public partial class Dashboard
     {
-
         /// <summary>
         /// form1 control.
         /// </summary>
@@ -22,7 +18,6 @@ namespace Project1
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
         /// <summary>
         /// ddlTemplates control.
         /// </summary>
@@ -31,7 +26,6 @@ namespace Project1
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlTemplates;
-
         /// <summary>
         /// fileUpload control.
         /// </summary>
@@ -40,7 +34,6 @@ namespace Project1
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.FileUpload fileUpload;
-
         /// <summary>
         /// btnUpload control.
         /// </summary>
@@ -49,7 +42,6 @@ namespace Project1
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnUpload;
-
         /// <summary>
         /// GridView1 control.
         /// </summary>
