@@ -17,5 +17,5 @@
     <li>The USER login is for regular users or customers of Digital Contact System for visitng card and qr scanner.</li>
    <li>For any modification user can ask permission to the admin </li>
     <li>Registered users can log in to access the system .</li>
-    <li>USER login does not provide access to administrative functions.</li>
+  
   </ul>
